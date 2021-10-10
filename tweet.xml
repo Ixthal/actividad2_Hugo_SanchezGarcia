@@ -1,0 +1,22 @@
+<tweet>
+    <usuario>
+        <nombre>@Miniduke</nombre>
+        <alias>Miniduke</alias>
+        <correo>miniduke@gmail.com</correo>
+        <foto>123.jpeg</foto>
+    </usuario>
+    <usuario nombre="@Miniduke" alias="Miniduke" correo="miniduke@gmail.com" foto="123.jpeg"></usuario>
+    <contenido>"KEKW chat"</contenido>
+    <retweets>123</retweets>
+    <megusta>345</megusta>
+    <comentarios>
+        <comentario>"xd"</comentario>
+        <comentario>"xdxd"</comentario>
+        <comentario>"xdxdxd"</comentario>
+    </comentarios>
+<followers>
+    <follower>JohnDoe1</follower>
+    <follower>JohnDoe2</follower>
+    <follower>JohnDoe3</follower>
+</followers>
+</tweet>
